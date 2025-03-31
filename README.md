@@ -8,7 +8,7 @@ HTML Y CSS
 
 
 ## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
+Clonar repositorio > abrir proyecto en vscode > usar live server para poder ver el proyecto.
 
 ## Licencia
 [MIT]
